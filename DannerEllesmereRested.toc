@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: |cff0cd29fDanner|rEllesmereRested
+## Notes: Shows a gold "zzz" in place of the player level while resting on EllesmereUI's WoW Forever unit frame style.
+## Author: Danner
+## Version: 1.0
+## X-Category: Unit Frames
+## OptionalDeps: EllesmereUI, EllesmereUIUnitFrames
+
+DannerEllesmereRested.lua
